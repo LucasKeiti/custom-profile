@@ -1,4 +1,4 @@
-## NLW Heat Origin - Custom Profile
+## NLW Heat Origin - Virtual Badge
 
 <p align="center">
   <a href="#-sobre-o-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -11,6 +11,8 @@
 </p>
 
 ## 💻 Sobre o Projeto
+
+A NLW Heat Origin - Virtual Badge é o desenvolvimento de um crachá virtual envolvendo a customização do seu próprio perfil com fácil direcionamento/visualização de suas redes sociais e demais plataformas.
 
 ## 🔍Tecnologias
 
@@ -26,4 +28,4 @@
 
 Autor: Lucas Keiti
 
-# In progress...
+## In progress...
