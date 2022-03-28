@@ -10,13 +10,13 @@
  <img alt="GitHub" src="https://img.shields.io/github/license/LucasKeiti/rocket-barberorigin">
 </p>
 
+## 💻 Sobre o Projeto
+
 ## 🔍Tecnologias
 
 - HTML
 - CSS
 - JavaScript
-- 
-## 💻 Sobre o Projeto
 
 ## 📝 Licença
 
