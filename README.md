@@ -11,12 +11,12 @@
 </p>
 
 <p align="center">
-  <img alt="VirtualBadge" src="images/preview.jpg" width="100%">
+  <img alt="VirtualBadge" src="images/preview.jpg" width="30%">
 </p>
 
 ## 💻 Sobre o Projeto
 
-A NLW Heat Origin - Virtual Badge é o desenvolvimento de um crachá virtual envolvendo a customização do seu próprio perfil com fácil direcionamento/visualização de suas redes sociais e demais plataformas.
+A NLW Heat Origin - Virtual Badge é o desenvolvimento de um crachá virtual envolvendo a customização do seu próprio perfil do GitHub com fácil direcionamento/visualização de suas redes sociais e demais plataformas.
 
 ## 🔍Tecnologias
 
@@ -30,6 +30,12 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 ### 👔 Link para visualização Web
 
 https://lucaskeiti.github.io/custom-profile/
+
+### 📰 Como clonar o projeto
+
+git clone https://github.com/LucasKeiti/custom-profile.git
+
+Realizar o comando do git clone para clonar o projeto em seu repositório e dentro do arquivo "main.js", basta alterar as variáveis da const LinksSocialMedia.
 
 ---
 
