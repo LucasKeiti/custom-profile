@@ -10,6 +10,10 @@
  <img alt="GitHub" src="https://img.shields.io/github/license/LucasKeiti/custom-profile">
 </p>
 
+<p align="center">
+  <img alt="VirtualBadge" src="github/preview.jpg" width="100%">
+</p>
+
 ## 💻 Sobre o Projeto
 
 A NLW Heat Origin - Virtual Badge é o desenvolvimento de um crachá virtual envolvendo a customização do seu próprio perfil com fácil direcionamento/visualização de suas redes sociais e demais plataformas.
