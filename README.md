@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img alt="VirtualBadge" src="images/preview.jpg" width="30%">
+  <img alt="VirtualBadge" src="images/preview.jpg" width="40%">
 </p>
 
 ## 💻 Sobre o Projeto
