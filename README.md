@@ -6,10 +6,6 @@
   <a href="#memo-licença">Licença</a>
 </p>
 
-<p align="center">
- <img alt="GitHub" src="https://img.shields.io/github/license/LucasKeiti/rocket-barberorigin">
-</p>
-
 ## 💻 Sobre o Projeto
 
 A NLW Heat Origin - Virtual Badge é o desenvolvimento de um crachá virtual envolvendo a customização do seu próprio perfil com fácil direcionamento/visualização de suas redes sociais e demais plataformas.
